@@ -6,3 +6,5 @@ Thanks to [Anand Chitipothu](https://twitter.com/anandology) for helping us with
 
 commit1
 commit2
+
+commit3
